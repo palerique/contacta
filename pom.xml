@@ -11,8 +11,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <thucydides.version>0.9.238</thucydides.version>
-        <thucydides.jbehave.version>0.9.235</thucydides.jbehave.version>
+        <thucydides.version>0.9.251</thucydides.version>
+        <thucydides.jbehave.version>0.9.250</thucydides.jbehave.version>
     </properties>
 
     <dependencies>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
-            <version>1.6.1</version>
+            <version>1.7.7</version>
         </dependency>
         <dependency>
             <groupId>org.easytesting</groupId>
